@@ -70,7 +70,7 @@ Detalle, datos por etapa y el mapeo de cada brecha a un componente del framework
 
 Actividad de grado del Magíster en Tecnologías de la Información y Gestión, Pontificia Universidad Católica de Chile (2025): *"Fortalecer las prácticas de calidad de software en startups tecnológicas chilenas, a partir del diseño de un modelo de servicio"*. Los resultados son agregados; no se identifica a ninguna empresa.
 
-Contenido compartido bajo [CC BY 4.0](LICENSE).
+Contenido compartido bajo [CC BY-NC-ND 4.0](LICENSE).
 
 ---
 
