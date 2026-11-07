@@ -70,7 +70,7 @@ Details, data by growth stage and the mapping from each gap to a framework compo
 
 Graduation project of the Master in Information Technology and Management, Pontificia Universidad Católica de Chile (2025): *"Strengthening software quality practices in Chilean tech startups through the design of a service model."* Results are aggregated; no company is identified.
 
-Content is shared under [CC BY 4.0](LICENSE).
+Content is shared under [CC BY-NC-ND 4.0](LICENSE).
 
 ---
 
